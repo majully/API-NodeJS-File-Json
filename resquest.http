@@ -1,0 +1,29 @@
+POST http://localhost:4002/products
+Content-Type: application/json
+
+{
+    "name": "Chevrolet Cela 1.0 2012",
+    "price": 33000.00
+}
+
+###
+
+GET http://localhost:4002/products
+
+###
+
+GET http://localhost:4002/products/52c7f6de-a75a-4386-aef3-6e0c87e8dd7e
+
+###
+
+PUT http://localhost:4002/products/aaa742cb-5d1f-470c-ba35-4190d7b3adc7
+Content-Type: application/json
+
+{
+    "name": "Chevrolet Cela 1.0 2012",
+    "price": 52890.00
+}
+
+###
+
+DELETE http://localhost:4002/products/8c78d99e-bf78-4db0-a6df-e88d0f451434
