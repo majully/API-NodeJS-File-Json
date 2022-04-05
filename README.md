@@ -14,7 +14,8 @@
 <h2 align="center">Como Usar 👨‍💻</h2>
 
    ```
-   Antes de tudo, configure corretamente o ambiente de desenvolvimento Node.js em sua máquina, veja https://nodejs.dev/learn/how-to-install-nodejs
+   Antes de tudo, configure corretamente o ambiente de desenvolvimentoNode.js em 
+   sua máquina, veja https://nodejs.dev/learn/how-to-install-nodejs
    
    - Clonar este repositório:
    $ git clone https://github.com/majully/API-NodeJS-File-Json.git
